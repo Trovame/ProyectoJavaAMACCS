@@ -1,0 +1,15 @@
+Modelos\Producto.class
+com\itca\examen3\resources\JakartaEE8Resource.class
+Modelos\Cliente.class
+ModelosDAO\ClienteDAO.class
+ModelosDAO\ProductoDAO.class
+Controladores\ControllerProveedor.class
+ModelosDAO\CategoriaDAO.class
+Controladores\ControllerCategoria.class
+ModelosDAO\ProveedorDAO.class
+Controladores\ControllerProducto.class
+com\itca\examen3\JakartaRestConfiguration.class
+Database\Conexion.class
+Modelos\Categoria.class
+Controladores\ControllerCliente.class
+Modelos\Proveedor.class
